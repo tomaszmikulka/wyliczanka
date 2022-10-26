@@ -1,0 +1,2 @@
+# wyliczanka
+zad1
